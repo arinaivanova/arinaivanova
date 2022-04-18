@@ -1,6 +1,6 @@
-Studying Electrical Engineering at Ryerson University (BEng 2025). Interested in math, CS, electronics, and FOSS.
+Studying Electrical Engineering at Ryerson University (BEng 2025).
 
-Here are my algorithms and projects in `C/C++`,`Java` and `Python` in machine learning, computer graphics and simulation, competitive programming and more.
+Here are my projects in `C/C++`,`Java` and `Python` in machine learning, computer graphics and simulation, and more.
 
 Contact:
-+ Email: `arina.ivanova@ryerson.ca` **|** [Linkedin](https://www.linkedin.com/in/arinaivanova/) **|** Discord: `arina#2527` **|** Instagram: [@arinaiva2021](https://www.instagram.com/arinaiva2021/)
++ Email: `arina.ivanova@ryerson.ca` **|** [Linkedin](https://www.linkedin.com/in/arinaivanova/) **|** Discord: `arina#2527`
